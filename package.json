@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  },
+  "scripts": {
+    "test": "mocha --require config/testHelper.js",
+    "test:watch": "yarn test --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
