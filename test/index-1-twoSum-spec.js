@@ -1,4 +1,4 @@
-import twoSum from '../src/index-1';
+import twoSum from '../src/index-1-twoSum';
 
 describe('twoSum', () => {
 

@@ -1,3 +1,4 @@
+//1.两数之和
 function twoSum(nums, target) {
 
   for(let x = 0; x < nums.length; x++) {
